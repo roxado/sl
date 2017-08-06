@@ -1,9 +1,7 @@
-# Welcome to the HEM Sound Library.
+# HEM Sound Library
 
-The HEM Sound Library (HEM SL) is an open-source collection of sound samples in WAV and Ableton Live format.
+HEM Sound Library is an open-source collection of sound samples and generative music tools for Ableton Live.
 
-HEM SL contains many beautiful instrument-based sounds and textures, ready for use in any genre of music.
-It also contains some rather more curious artefacts like [studio outtakes](http://google.com), [noise reduction artefacts](),
-[condenser mic feedback](), [no-input mixer](), and [secondhand-store vinyl]().
+This Sound Library contains many traditional instrument-based sounds and textures, and sample packs featuring extended technique, microtonality, studio outtakes, noise reduction artefacts, no-input mixer, and secondhand-store vinyl, etc.
 
-HEM SL also includes generative sample playback engine for Ableton Live.
+HEM SL also includes generative sample playback engine for Ableton Live, called "Seurat MIDI".
