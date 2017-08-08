@@ -6,13 +6,11 @@ HEM Sound Library is an open-source collection of sound samples and generative m
 
 This Sound Library contains 30 sample packs containing over 1800 samples of traditional instruments, extended technique, microtonality, spectralism, non-cochlear events, conceptual sound, studio outtakes, noise reduction artefacts, no-input mixer, rare synth units, secondhand-store vinyl, etc., plus a generative sample playback engine for Ableton Live, called "Seurat MIDI".
 
-## Getting Started
-
-You can browse and hear actual presets at [HEM's sample browser](https://hem.rocks/sl), or by playing the mp3 samples directly from this repository, under "Sounds". Find something you like, download the `.alp` file, and start working immediately in Ableton Live. Click here for full documentation. To contribute to the library, see below.
+You can browse and hear actual presets at [HEM's sample browser](https://hem.rocks/sl), or by playing the mp3 samples directly from this repository, under "Sounds". Find something you like, download the `.alp` file, and start working immediately in Ableton Live. Follow the tutorials to more about using the library in your own work. To contribute to the library, see below.
 
 # THE DEMONSTRATION DISC – OUT 6. OCTOBER, 2017
 
-!["The album cover."](Misc/readme/dd-cover.jpg "The album cover.")
+!["The album cover."](Misc/readme/dd-cover-500.jpg "The album cover.")
 
 The "Demonstration Disc" is the best way to see what the library is fully capable of. It is also the first full–length album made with the Sound Library. Starting on 6th of October, you can get it here in its entirety by checking the Ableton project files out of Github.
 
