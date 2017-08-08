@@ -8,43 +8,35 @@ This Sound Library contains 30 sample packs containing over 1800 samples of trad
 
 ## Getting Started
 
-You can browse preset textures at [HEM's sample browser](https://hem.rocks/sl), or by playing the mp3 samples directly from this repository, under "Sounds". Find something you like, download the `.alp` file, and start working immediately in Ableton Live. Click here for full documentation. To contribute to the library, see below.
+You can browse and hear actual presets at [HEM's sample browser](https://hem.rocks/sl), or by playing the mp3 samples directly from this repository, under "Sounds". Find something you like, download the `.alp` file, and start working immediately in Ableton Live. Click here for full documentation. To contribute to the library, see below.
 
-# THE DEMONSTRATION DISC – OUT 22. OCTOBER, 2017
+# THE DEMONSTRATION DISC – OUT 6. OCTOBER, 2017
 
 !["The album cover."](Misc/readme/dd-cover.jpg "The album cover.")
 
-The "Demonstration Disc" is the best way to see what the library is fully capable of. It is also the first full–length album made with the Sound Library. Starting on 22nd of October, you can get it here in its entirety, including Ableton project files, by checking it out of Github.
+The "Demonstration Disc" is the best way to see what the library is fully capable of. It is also the first full–length album made with the Sound Library. Starting on 6th of October, you can get it here in its entirety by checking the Ableton project files out of Github.
 
-__It's highly encouraged that you listen on iTunes, Spotify, or purchase a physical copy from RedEye distribution.__
+\*_Also available on iTunes, Spotify and limited-edition vinyl._
 
-Press Release:
-
-      "Demonstration Disc" is, ostensibly, a new album by Jason Grier; equally so, it’s a quickstart guide to the sonic offerings in the open-sourced collection of samples and generative music tools which Grier spent the past 3 years carving, cutting, and coding from bespoke studio recordings and wayward sonic data.
-
-      Issues of labor theory, social practice, and sonic activism pervade an abstract surface worked and re-worked toward a hallucinatory depth of field.
-
-      Sounds range from the [lush psychoacoustic, for example, gossamer threads], to the [antique piano, demonstration of failed equipment], labor artefacts, to the extra-cochlear [ex, ex, trump protests].
-
-      Loud, decadent, irreverent, and cinematic, "Demonstration Disc" sounds like mashing down all the preset buttons on your sparkling-new, cosmic-avant-garde monster synth, with delectable aplomb.
-
-## Receive notifications:
-
-<input type="text" placeholder="Enter your email here." />
-
-__Press contact: ed at dense dot de__
+Sign up to be notified here: http://hem.rocks/demonstration-disc
 
 # Tutorials
 
 ## 1) MIDI Pointilism: Seurat MIDI
 
-Seurat is a general-purpose tool to explore large numbers of samples, and to create textures out of them. It does this by "spraying" MIDI notes around on your sample set.  This is likened to how Georges Seurat painted with dots. Try tutorial #2 "MIDI Pointilism" to see how Seurat works. Seurat MIDI does not require Max for Live.
+Seurat is a general-purpose tool to explore large numbers of samples, and to create textures out of them. It does this by "spraying" MIDI notes around on your sample set.  This is likened to how Georges Seurat painted with dots. Try tutorial #2 "MIDI Pointilism" to see how Seurat works. (Seurat MIDI does not require Max for Live.)
 
 ## 2) Follow-action Wind Chime
 
-## 3) Capture and Edit
+Once you've found a bunch of presets for Seurat, render them out as clips. Then use random follow actions to find complex ideas for compositions.
 
-## 4) Live Rig
+## 3) Live Rig
+
+Gather all your Seurat presets together and consolidate, then drop them from the browser onto a track, and tweak their settings at will. One cool live performance trick is to have a few Seurat instances with throttle set to almost zero, leading to huge gaps of silence and rare alternating accents for your main part(s).
+
+## 4) Capture and Edit
+
+Complete a finished track by capturing the MIDI output of Seurat and perfecting the device's performance.
 
 # History
 
