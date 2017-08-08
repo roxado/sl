@@ -4,9 +4,9 @@ HEM Sound Library is an open-source collection of sound samples and generative m
 
 !["Picture of the wind chime."](Misc/readme/chime.gif "Picture of the wind chime.")
 
-This Sound Library contains 30 sample packs containing over 1800 samples of traditional instruments, extended technique, microtonality, spectralism, non-cochlear events, conceptual sound, studio outtakes, noise reduction artefacts, no-input mixer, rare synth units, secondhand-store vinyl, etc., plus a generative sample playback engine for Ableton Live, called "Seurat MIDI".
+This Sound Library contains 30 sample packs containing over 1800 samples of traditional instruments, extended technique, microtonality, spectralism, non-cochlear events, conceptual sound, studio outtakes, noise reduction artefacts, no-input mixer, rare synth units, secondhand-store vinyl, etc., plus a generative sample playback engine called "Seurat MIDI".
 
-You can browse and hear actual presets at [HEM's sample browser](https://hem.rocks/sl), or by playing the mp3 samples directly from this repository, under "Sounds". Find something you like, download the `.alp` file, and start working immediately in Ableton Live. Follow the tutorials to more about using the library in your own work. To contribute to the library, see below.
+You can browse and hear actual presets at [HEM](https://hem.rocks/sl), or by playing the mp3 samples directly from this repository, under "Sounds". Find something you like, download the `.alp` file, and start working immediately in Ableton Live. Follow the tutorials to more about using the library in your own work. To contribute to the library, see below.
 
 # THE DEMONSTRATION DISC – OUT 6. OCTOBER, 2017
 
@@ -16,7 +16,7 @@ The "Demonstration Disc" is the best way to see what the library is fully capabl
 
 \*_Also available on iTunes, Spotify and limited-edition vinyl._
 
-Sign up to be notified here: http://hem.rocks/demonstration-disc
+Sign up to be notified here: http://hem.rocks/
 
 # Tutorials
 
