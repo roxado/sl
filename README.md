@@ -40,6 +40,8 @@ Complete a finished track by capturing the MIDI output of Seurat and perfecting 
 
 HEM SL was recorded and developed by Jason Grier between 2013 and 2017. It has been the  mainstay of his live performances since 2013, and is now available for public use.
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336965418%3Fsecret_token%3Ds-gfBna&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 Jason Grier performing with HEM SL and Seurat live at Studio Acht, Berlin, July 23rd 2017:
 
 # Credits
