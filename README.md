@@ -12,11 +12,9 @@ Browse the README files under Packs. Find a sound you like, download the `.alp` 
 
 !["The album cover."](Misc/dd-cover-500.jpg "The album cover.")
 
-The "Demonstration Disc" is the best way to see what the library is fully capable of. It is also the first full–length album made with the Sound Library. Starting on 6th of October, you can get it here in its entirety by checking the Ableton project files out of Github.
+The "Demonstration Disc" is the best way to see what the library is fully capable of. It is also the first full–length album made with the Sound Library. Starting on 6th of October, you can get it here in its entirety by checking the Ableton project files out of Github. More info here: http://hem.rocks/dd
 
 \*_Also available on iTunes, Spotify and limited-edition vinyl._
-
-Sign up to be notified here: http://hem.rocks/
 
 # Tutorials
 
