@@ -17,19 +17,11 @@ The "Demonstration Disc" is the best way to see what the library is fully capabl
 
 ## 1) MIDI Pointilism: Seurat MIDI
 
-Seurat is a general-purpose tool to explore large numbers of samples, and to create textures out of them. It does this by "spraying" MIDI notes around on your sample set.  This is likened to how Georges Seurat painted with dots. Try tutorial #2 "MIDI Pointilism" to see how Seurat works. (Seurat MIDI does not require Max for Live.)
+https://www.youtube.com/watch?v=ms2w2-nbIvU
 
-## 2) Follow-action Wind Chime
+## 2) Generative Poetry (Sampling and Troubleshooting Seurat MIDI)
 
-Once you've found a bunch of presets for Seurat, render them out as clips. Then use random follow actions to find complex ideas for compositions.
-
-## 3) Live Rig
-
-Gather all your Seurat presets together and consolidate, then drop them from the browser onto a track, and tweak their settings at will. One cool live performance trick is to have a few Seurat instances with throttle set to almost zero, leading to huge gaps of silence and rare alternating accents for your main part(s).
-
-## 4) Capture and Edit
-
-Complete a finished track by capturing the MIDI output of Seurat and perfecting the device's performance.
+https://www.youtube.com/watch?v=-2YR1MlJiEY
 
 # History
 
@@ -41,10 +33,6 @@ Cover art: Abstract Painting (726) © Gerhard Richter 2017
 
 All tracks and applications © Jason Grier 2014–2017
 
-Made with HEM SL and Seurat MIDI (BSD free software license)
+Made with HEM SL and Seurat MIDI
 
 with: Julia Holter, Lucrecia Dalt, Jana Papenbroock, Corey Fogel, Danny Meyer, Hogir Göregen, Alain Paul, Laena Myers-Ionita, Annelyse Gelman
-
-Special thanks: Sekip Can Gökalp and Jana Sievers, Ece Gökalp, and Gary Schultz
-
-# Contributing
