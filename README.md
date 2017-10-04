@@ -13,6 +13,8 @@ This Sound Library contains 30 sample packs containing over 1800 samples of trad
 
 The "Demonstration Disc" is the best way to see what the library is fully capable of. It is also the first full–length album made with the Sound Library.
 
+OUT ON OCTOBER 6th, 2017
+
 # Tutorials
 
 ## 1) MIDI Pointilism: Seurat MIDI
