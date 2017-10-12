@@ -2,6 +2,10 @@
 
 HEM Sound Library is an open-source collection of sound samples and generative music tools for Ableton Live.
 
+It's totally free to download any of the packs, but if you like what you hear, consider making a donation:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8M8WG5CK88UJ8)
+
 !["Picture of the wind chime."](Misc/chime-thin.gif "Picture of the wind chime.")
 
 This Sound Library contains 30 sample packs containing over 1800 samples of traditional instruments, extended technique, microtonality, spectralism, non-cochlear events, conceptual sound, studio outtakes, noise reduction artefacts, no-input mixer, rare synth units, secondhand-store vinyl, etc., plus a generative sample playback engine called "Seurat MIDI".
